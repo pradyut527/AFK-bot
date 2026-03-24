@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pradyut_minecraft.aternos.me",
-    "port": 11044,
+    "ip": "PRAD_SMP.aternos.me",
+    "port": 20350,
     "version": "1.21.1"
   },
   "position": {
